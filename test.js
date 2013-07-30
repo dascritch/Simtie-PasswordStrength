@@ -1,5 +1,5 @@
 QUnit.test( "Password Strength", function(assert) {
-  var email = 'michel.subotkiewiez@notalus.fr';
+  var email = 'michel.subotkiewiez@example.com';
 
 	var passStrength = jQuery.fn.passStrength_;
 
